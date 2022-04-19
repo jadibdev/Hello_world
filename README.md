@@ -10,9 +10,19 @@
 - HTML
 - CSS
 
+## Getting Started
+
+To get a local copy up and running follow these simple example steps:
+
+### Setup
+Download this repository on your own computer
+
+### Run
+Run index.html in your favorite browser
+
 ## Authors
 
-👤 **Author1**
+👤 **Mohamed Jadib**
 
 - GitHub: [@jadibdev](https://github.com/jadibdev)
 - Twitter: [@MohamedJadib](https://twitter.com/MohamedJadib)
