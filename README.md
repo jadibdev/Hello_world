@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Hello World
 
 > This is a project to demonstrate understanding of best practices and setting up the right linters.
 
